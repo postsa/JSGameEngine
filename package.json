@@ -1,0 +1,26 @@
+{
+  "name": "electron-game-engine",
+  "version": "1.0.0",
+  "description": "A simple Electron game engine",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "github.com/postsa/electron-game-engine",
+  "keywords": [
+    "Electron",
+    "game",
+    "engine"
+  ],
+  "author": "Spencer Post",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "angular": "1.5.9",
+    "angular-aria": "1.5.9",
+    "angular-animate": "1.5.9",
+    "angular-material": "1.1.3"
+  }
+}
